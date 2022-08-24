@@ -1,7 +1,7 @@
 # Hello There i'm Leader
 # Hi there 👋
 
-![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
+![malo-dev](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=bold&lines=Call+me+Arick+Bulakali;malo-dev)
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
@@ -19,9 +19,6 @@
 
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
 </ul>
-</td>
-<td align="center">
-<img src="./assets/img/ndekocode.png" width="60%" style="border-radius:50%;">
 </td>
         </tr>
     </tbody>
@@ -207,11 +204,11 @@
 </table>
 
 <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" width="250" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malo-dev&show_icons=true&locale=en" alt="malo-dev" width="250" />
 </p>
 
 
-[![NdekoCode's github activity graph](https://activity-graph.herokuapp.com/graph?username=NdekoCode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NdekoCode/github-readme-activity-graph)
+[![malo-dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=malo-dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/malo-dev/github-readme-activity-graph)
 <br/>
 <br/>
 
